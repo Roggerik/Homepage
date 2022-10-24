@@ -99,10 +99,5 @@ section{
 }
 
 .attribution{
-  display: flex;
-  position:relative;
-  margin-top: 100px;
-  margin-bottom: 100px;
+  display: none;
 }
-
-.attribution a { color: hsl(228, 45%, 44%); }
